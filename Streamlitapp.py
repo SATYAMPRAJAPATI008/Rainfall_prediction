@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the trained model
-model = joblib.load("rainfall_prediction_model.pkl")
+model = joblib.load("rainfall_predictor_model.pkl")
 
 st.set_page_config(page_title="Rainfall Predictor", layout="centered")
 st.title("☔ Rainfall Prediction App")
