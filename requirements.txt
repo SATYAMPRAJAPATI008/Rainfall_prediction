@@ -5,4 +5,4 @@ xgboost
 streamlit
 pillow
 joblib
-python==3.11
+
